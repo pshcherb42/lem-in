@@ -31,3 +31,5 @@ typedef struct s_farm           // the complete map. "Cerebro" that saves all th
 // I do not know how many rooms the map will have
 // Edmonds-Karp or Dinic algorithms to find optimal ways between rooms
 // BFS modificado algorithm fr searching
+
+// rooms are stored in one growable array: data structure, stores a collection of variables at adjacent memory locations
